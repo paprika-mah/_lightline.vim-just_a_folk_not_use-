@@ -18,15 +18,15 @@ let s:p.normal.middle = [ [ 'gray7', 'gray2' ] ]
 let s:p.insert.middle = [ [ 'mediumcyan', 'darkestblue' ] ]
 let s:p.replace.middle = s:p.normal.middle
 let s:p.replace.right = s:p.normal.right
-let s:p.tabline.left = [ [ 'blue', 'green' ] ]
-let s:p.tabline.tabsel = [ [ 'red', 'black' ] ]
-let s:p.tabline.middle = [ [ 'blue', 'white' ] ]
-let s:p.tabline.right = [ [ 'white', 'gray8' ] ]
+" let s:p.tabline.left = [ [ 'blue', 'green' ] ]
+" let s:p.tabline.tabsel = [ [ 'red', 'black' ] ]
+" let s:p.tabline.middle = [ [ 'blue', 'white' ] ]
+" let s:p.tabline.right = [ [ 'white', 'gray8' ] ]
 
-" let s:p.tabline.left = [ [ 'gray9', 'gray4' ] ]
-" let s:p.tabline.tabsel = [ [ 'gray9', 'gray1' ] ]
-" let s:p.tabline.middle = [ [ 'gray2', 'gray8' ] ]
-" let s:p.tabline.right = [ [ 'gray9', 'gray3' ] ]
+let s:p.tabline.left = [ [ 'gray9', 'gray4' ] ]
+let s:p.tabline.tabsel = [ [ 'gray9', 'gray1' ] ]
+let s:p.tabline.middle = [ [ 'gray2', 'gray8' ] ]
+let s:p.tabline.right = [ [ 'gray9', 'gray3' ] ]
 
 
 
