@@ -18,10 +18,10 @@ let s:p.normal.middle = [ [ 'gray7', 'gray2' ] ]
 let s:p.insert.middle = [ [ 'mediumcyan', 'darkestblue' ] ]
 let s:p.replace.middle = s:p.normal.middle
 let s:p.replace.right = s:p.normal.right
-let s:p.tabline.left = [ [ 'gray9', 'gray4' ] ]
-let s:p.tabline.tabsel = [ [ 'gray9', 'gray1' ] ]
-let s:p.tabline.middle = [ [ 'gray2', 'gray8' ] ]
-let s:p.tabline.right = [ [ 'gray9', 'gray3' ] ]
+let s:p.tabline.left = [ [ 'yellow', 'yellow' ] ]
+let s:p.tabline.tabsel = [ [ 'yellow', 'yellow' ] ]
+let s:p.tabline.middle = [ [ 'yellow', 'yellow' ] ]
+let s:p.tabline.right = [ [ 'yellow', 'yellow' ] ]
 let s:p.normal.error = [ [ 'gray9', 'brightestred' ] ]
 let s:p.normal.warning = [ [ 'gray1', 'yellow' ] ]
 
