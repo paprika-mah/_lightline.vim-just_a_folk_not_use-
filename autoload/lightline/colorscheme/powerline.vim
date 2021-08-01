@@ -22,7 +22,7 @@ let s:p.replace.right = s:p.normal.right
 " customize
 let s:p.tabline.left = [ [ 'white', 'brightgreen' ] ]
 let s:p.tabline.tabsel = [ [ 'white', 'gray8' ] ]
-let s:p.tabline.middle = [ [ 'white', 'mediumcyan' ] ]
+let s:p.tabline.middle = [ [ 'white', 'darkestcyan' ] ]
 let s:p.tabline.right = [ [ 'white', 'gray8' ] ]
 
 " let s:p.tabline.left = [ [ 'gray9', 'gray4' ] ]
